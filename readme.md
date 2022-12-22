@@ -1,0 +1,1 @@
+This repository holds a copy of some lovely javascript I at the space weather prediction center. Leverages the highcharts library to draw some of the fanciest, most nuanced, interactive, and dynamic line plots you'll find for operational use.
